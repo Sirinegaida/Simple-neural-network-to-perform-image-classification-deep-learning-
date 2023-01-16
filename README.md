@@ -1,4 +1,4 @@
-# handwrtiitendigits
+#  Simple neural network to perform image classification (deep learning)
 
 Understand how deep learning can solve problems traditional programming methods cannot 
     Learn about the MNIST handwritten digits dataset 
